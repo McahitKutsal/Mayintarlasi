@@ -1,7 +1,8 @@
 # Mayintarlasi
 Fırat Üniversitesi algoritma ve programlama II Dersi vize sınav sorusu
 
-Yardım aldığım kaynaklar
+Yardım aldığım kaynaklar.
+
 https://stackoverflow.com/questions/12010587/how-to-get-real-jpanel-size
 https://docs.oracle.com/javase/tutorial/uiswing/events/mouselistener.html
 http://www.yazilimmutfagi.com/index.php/2011/02/08/menubar-menu-menuitem/
